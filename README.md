@@ -12,6 +12,7 @@ There were no mockups or wireframes. I just kept tweaking the dark mode, glassmo
 - **KPIs:** Tracks Monthly Burn, Daily Velocity, and Projected Totals.
 - **Quality of Spend:** Visual bar for the 50/30/20 rule (Needs vs. Wants vs. Savings).
 - **Stack:** Python (Flask) backend + Vanilla HTML/CSS/JS.
+- **Local Storage:** Data is stored locally in **CSV files**, keeping things simple. No complex databases needed.
 
 ##  How to Run
 1. Clone the repository.
@@ -20,4 +21,4 @@ There were no mockups or wireframes. I just kept tweaking the dark mode, glassmo
    ```bash
    python main.py
    ```
- 4.  Open http://localhost:5000 in your browser.
+ 4.  Open http://localhost:8000 in your browser.
