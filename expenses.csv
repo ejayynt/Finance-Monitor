@@ -1,0 +1,13 @@
+date,category,subcategory,amount,surcharge,necessity,desc
+04-02-2026,Food,Ordering In,282.5,52.61,Need,Dinner from Kesar Restaurant
+04-02-2026,Food,Ordering In,279,0,Want (Luxury/Impulse),Mugoffee
+04-02-2026,Food,Ordering In,178,14.99,Need (Essential),Breakfast from Thalassery
+05-02-2026,Food,Grocery (Healthy),141,4.72,Need (Essential),Basic Groceries
+05-02-2026,Food,Junk / Cravings,117,4.72,Want (Luxury/Impulse),Noice chocolate cake (2) and buffalo milk
+05-02-2026,Utilities,Rent,5500,0,Need (Essential),Rent A905
+,,,,,,
+,,,,,,
+2026-02-01,Investment,Lumpsum,1000.0,0.0,Need,Aditya Birla Sun Life Nifty India Defence Index Fund Direct Growth
+2026-02-05,Food,Ordering In,282.5,52.61,Want,Zomato Kesar Restaurant
+2026-02-06,Food,Grocery (Healthy),179.0,0.0,Need,Mart
+2026-02-06,Food,Grocery (Healthy),15.0,0.0,Want,Mart Boost
